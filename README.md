@@ -26,3 +26,7 @@ For example
 
     1. $parallelCount => This can be used to define the number parallel processes to be executed (default: 3)
     2. $estimateProcessTime => average estimate time for process in second (default 1)
+    
+##License
+
+The MIT License. Please see the [License File](LICENSE.md)

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Anshul Bansal
+Copyright (c) 2020 [Anshul Bansal](https://github.com/akbansa)
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
