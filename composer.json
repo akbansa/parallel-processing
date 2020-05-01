@@ -1,5 +1,5 @@
 {
-    "name": "akbansa/laravel-parallel-processor",
+    "name": "akbansa/parallel-processor",
     "description": "Parallel Processor will help you do run commands for parallel execution",
     "authors": [
         {
