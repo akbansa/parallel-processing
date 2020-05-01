@@ -2,7 +2,7 @@
 
 An easy way to run multiple commands in parallel in laravel.
 
-##Usage
+## Usage
 
 Import `ParallelProcessor` where you want to use this parallel processor.
 
@@ -27,6 +27,6 @@ For example
     1. $parallelCount => This can be used to define the number parallel processes to be executed (default: 3)
     2. $estimateProcessTime => average estimate time for process in second (default 1)
     
-##License
+## License
 
 The MIT License. Please see the [License File](LICENSE.md)
