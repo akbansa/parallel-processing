@@ -1,6 +1,6 @@
 <?php
 
-namespace Akbansa\ParallelProcessing;
+namespace Akbansa\LaravelParallelProcessor;
 
 use Symfony\Component\Process\Process;
 
