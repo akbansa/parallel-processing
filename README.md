@@ -2,9 +2,14 @@
 
 An easy way to run multiple commands in parallel in laravel.
 
+## Install
+
+Install via composer
+
+    composer require akbansa/parallel-processor
 ## Usage
 
-Import `ParallelProcessor` where you want to use this parallel processor.
+Import `Akbansa\LaravelParallelProcessor\ParallelProcessor` where you want to use this parallel processor.
 
     $processor = new ParallelProcessor($tasks, $options);
     $processor->start();
