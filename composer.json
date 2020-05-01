@@ -1,5 +1,5 @@
 {
-    "name": "akbansa/parallel-processor",
+    "name": "akbansa/laravel-parallel-processor",
     "description": "Parallel Processor will help you do run commands for parallel execution",
     "authors": [
         {
@@ -10,5 +10,10 @@
     "require": {
         "php": ">=7.0.31",
         "symfony/process": ">=3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Akbansa\\LaravelParallelProcessor\\": "src/"
+        }
     }
 }
